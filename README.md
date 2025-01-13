@@ -5,7 +5,7 @@ The CHAOSS Working Group on OSS Funding Impacts aims to develop frameworks, metr
 
 - [Context](#context)
 - [Objectives](#objectives)
-- [Working Group Chairs][#chairs]
+- [Working Group Chairs](#chairs)
 - [Participate](#participate)
 - [Activities](#activities)
 - [License](#license)
