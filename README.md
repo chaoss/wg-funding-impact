@@ -30,8 +30,8 @@ The open source community increasingly recognizes funding as critical for projec
 ## Participate
 
 - We meet every other week over Zoom, and meeting details can by found on the [CHAOSS Calendar](https://chaoss.community/chaoss-calendar/)
-- [Agenda/Meeting-Minutes]() ADD LINK
-- Join us in the #wg-funding-impact channel within the CHAOSS Slack Workspace.
+- [Agenda/Meeting-Minutes](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit?pli=1&tab=t.kta9wxvh7pj8#heading=h.oznzkn3t2ext)
+- Join us in the #wg-funding-impact channel within the CHAOSS Slack Workspace ([invite link](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g) to join CHAOSS Slack).
 
 Contribution guidelines can be found in the [CHAOSS Community CONTRIBUTING.MD](https://github.com/chaoss/community/blob/main/CONTRIBUTING.md).
 
