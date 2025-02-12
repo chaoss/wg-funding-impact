@@ -14,12 +14,13 @@ The CHAOSS Working Group on OSS Funding Impacts aims to develop frameworks, metr
 The open source community increasingly recognizes funding as critical for project sustainability, yet measuring funding impacts remains challenging. Does it make a meaningful difference in project security and sustainability? Does it contribute to healthier communities? Does it foster long-term resilience and technological diversity? This working group will bring together diverse stakeholders to develop standardized approaches for evaluating how funding influences and supports open source projects and developer communities.
 
 ## Objectives
+- Foster collaboration between researchers, practitioners, and funders on the topic of open source funding, impacts, and/or measurement
 - Develop standardized frameworks and metrics for measuring economic, social, and technological impacts of open source funding
-- Create guidelines and tools to help funders and OSS projects evaluate funding outcomes
-- Document and share best practices across different project types and funding models
+- Create guidelines and tools to measure or evaluate the impacts of open source funding
+- Document and share best practices across different types of open source projects and funding models
 - Build an evidence base of effective funding approaches for different contexts or needs
-- Foster collaboration between researchers, practitioners, and funders
-- Contribute to broader discussions about sustaining critical open source infrastructure
+- Create a knowledge base of resources for recommended reading on the topic of open source funding, impacts, and/or measurement
+- Contribute to broader discussions about the production and sustainability of critical open source projects
 
 ## Chairs 
 
@@ -41,11 +42,11 @@ We follow the [CHAOSS Code of Conduct](https://github.com/chaoss/governance/blob
 - Develop and refine metrics for measuring funding impacts 
 - Create documentation and guidelines for measuring funding impacts
 - Develop tools for data collection and analysis (e.g. scripts, Jupyter notebooks) 
-- Build relationships between funders, researchers, and communities
-- Maintain list (database) of relevant resources (e.g. papers, reports, talks)
+- Build relationships between funders, researchers, and open source communities
+- Maintain knowledge base of relevant resources (e.g. papers, reports, talks)
 - Review case studies to identify patterns and lessons learned
 - Host discussions with invited speakers from funded projects and funders
-- Contribute findings to broader CHAOSS community
+- Contribute findings to broader CHAOSS community and policy discussions
 
 ## License
 
