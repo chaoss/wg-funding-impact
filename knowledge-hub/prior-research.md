@@ -17,6 +17,7 @@
 - How Are Paid and Volunteer Open Source Developers Different? A Study of the Rust Project, https://dl.acm.org/doi/10.1145/3597503.3639197
 - The Shifting Sands of Motivation: Revisiting What Drives Contributors in Open Source, https://arxiv.org/abs/2101.10291
 - Working in Public: The Making and Maintenance of Open Source Software, https://press.stripe.com/working-in-public
+- Analyzing the Usage of Donation Platforms for PyPI Libraries, https://arxiv.org/abs/2503.08263
 
 ## Impacts or multiplier effects of open source funding
 ### Impact studies
