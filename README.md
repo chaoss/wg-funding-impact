@@ -24,8 +24,8 @@ The open source community increasingly recognizes funding as critical for projec
 
 ## Chairs 
 
-- [Cailean Osborne](https://github.com/ccosborne/)
 - [Paul Sharratt](https://github.com/psharratt)
+- [Adrienn Lawson](https://www.linkedin.com/in/adriennlawson)
 - [Dawn Foster](https://github.com/geekygirldawn)
 
 ## Participate
